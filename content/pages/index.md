@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: Jotham Bird Portfolio Site
     subtitle: >-
-      I am a Mobile Developer who loves taking the initiative and doing what
-      others won't.
+      I am a Mobile Developer who loves taking the initiative and doing more,
+      day by day. 
     styles:
       self:
         height: auto
