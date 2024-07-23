@@ -42,24 +42,23 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      I am a Front End Web Developer that enjoys getting his hands dirty taking
-      design concepts and making them come alive as fully-functioning web
-      applications, in a way that is visually compelling, accessible, and
-      user‑friendly. I have design experience, and I'm not afraid to utilize
-      Photoshop or Illustrator to create or enhance visual elements.
+    text: >
+      I am a Mobile Developer that enjoys taking the initiative. Making
+      something come alive in a colorful but fascinating way, is something I
+      strive for every time I start typing. I am a sucker for Mental Health and
+      I hope to help others with their beautiful mind as I venture farther into
+      the vast horizon of Mobile Development.
 
 
-      I'm also a serious tabletop/video game fanatic, with a certificate in game
-      design at the University of Washington and experience with game testing,
-      prototyping, and demoing. And a touch of experience with Unity.
+      I'm also a serious video game fanatic. I play competitive games, Call of
+      Duty being the one. Wagers, Tournaments, etc.. But I am much more than
+      that. I have a certificate in Unity, and a HTML/CSS certificate also and I
+      plan to add many more to the list!
 
 
-      Finally, I'm a travel addict, I love sci‑fi and fantasy stuff, and I play
-      bass guitar.
-
-
-
+      Finally, I'm a travel addict, I try to go everywhere I can. I love being
+      sociable and having fun with my friends. And I love putting Legos
+      together!
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
