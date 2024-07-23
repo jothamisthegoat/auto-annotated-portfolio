@@ -14,17 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Jotham Bird Portfolio Site
-    subtitle: >-
-      I am a Front End Web Developer that enjoys getting his hands dirty taking
-      design concepts and making them come alive as fully-functioning web
-      applications, in a way that is visually compelling, accessible, and
-      user‑friendly.           I have design experience, and I'm not afraid to
-      utilize Photoshop or Illustrator to create or enhance visual elements.I'm
-      also a serious tabletop/video game fanatic, with a certificate in game
-      design at the University of Washington and experience with game testing,
-      prototyping, and demoing. And a touch of experience with Unity. Finally,
-      I'm a travel addict, I love sci‑fi and fantasy stuff, and I play bass
-      guitar.
+    subtitle: ''
     styles:
       self:
         height: auto
