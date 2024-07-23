@@ -22,9 +22,9 @@ sections:
       utilize Photoshop or Illustrator to create or enhance visual elements.I'm
       also a serious tabletop/video game fanatic, with a certificate in game
       design at the University of Washington and experience with game testing,
-      prototyping, and demoing. And a touch of experience with Unity.Finally,
+      prototyping, and demoing. And a touch of experience with Unity. Finally,
       I'm a travel addict, I love sci‑fi and fantasy stuff, and I play bass
-      guitar. 
+      guitar.
     styles:
       self:
         height: auto
